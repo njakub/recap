@@ -1,0 +1,25 @@
+.mycard {
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    width: 20rem;
+    margin: 10px 10px 10px 10px;  
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+  }
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: orange;
+}
+
+ul{
+    list-style-type: none;
+}
